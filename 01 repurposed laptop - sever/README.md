@@ -24,4 +24,4 @@ Ubuntu Server gave me hands-on command-line Linux experience without a GUI to fa
 - Repurposing legacy hardware for practical use
 
 ## What's next
-Planning to expand this server's role by adding a Windows Server VM for Active Directory labbing (see Project 3).
+Planning to expand this server's role by adding a Windows Server VM for Active Directory labbing.
